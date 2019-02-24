@@ -1,3 +1,5 @@
-# 7design-es.github.io
+# Welcome to 7 Design
 
-Site under construction
+This site is under construction.
+
+![7 Design](img/7design-logo.png)
