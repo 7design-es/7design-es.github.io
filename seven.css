@@ -392,7 +392,7 @@ label {
 }
 
 /* Style the submit button */
-input[type=Enviar] {
+input[type=submit] {
     background-color: #ff005f;
     color: white;
     padding: 12px 15px;
@@ -444,7 +444,7 @@ input[type=Enviar] {
 
     .col-25,
     .col-75,
-    input[type=Enviar] {
+    input[type=submit] {
         width: 60%;
         margin-top: 0;
     }
