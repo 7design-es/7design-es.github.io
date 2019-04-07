@@ -178,6 +178,21 @@ table {
 
 }
 
+#second {
+    margin-top: 1%;
+    border-spacing: 0;
+    width: 50%;
+    margin-top: 600px;
+    font-family: "Comfortaa", sans-serif;
+    border-radius: 10px;
+    border: 5px solid #ff005f;
+    position: absolute;
+    color: #272A39;
+    text-align: center;
+    background-color: white;
+
+}
+
 th,
 td {
     text-align: left;
@@ -227,7 +242,7 @@ h2 {
     z-index: 1;
     min-width: 2%;
     max-width: 3%;
-    margin-top: 35%;
+    margin-top: 37%;
 }
 
 #icono12 {
@@ -238,7 +253,7 @@ h2 {
     z-index: 1;
     min-width: 2%;
     max-width: 3%;
-    margin-top: 35%;
+    margin-top: 37%;
 }
 
 #icono13 {
@@ -249,7 +264,7 @@ h2 {
     z-index: 1;
     min-width: 2%;
     max-width: 3%;
-    margin-top: 35%;
+    margin-top: 37%;
 }
 
 
@@ -442,7 +457,7 @@ input[type=Enviar] {
 h5 {
     font-family: K2D, sans-serif;
     position: absolute;
-    left: 45%;
+    left: 27%;
     font-size: 2.1vh;
     font-size: 2.1vw;
     color: #D0CFCF;
